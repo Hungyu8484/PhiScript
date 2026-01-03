@@ -34,7 +34,6 @@ ENV/
 *~
 
 # API Keys and Secrets
-config.py
 .env
 *.key
 secrets/
