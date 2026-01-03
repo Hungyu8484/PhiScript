@@ -1,4 +1,4 @@
-c,#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 New Problem 1-10 Experiment: 3 runs per problem, unified prompt format
 """

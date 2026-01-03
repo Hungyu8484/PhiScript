@@ -19,9 +19,10 @@ simple_problems = [
         "solution": "For free fall from rest: h = ½gt² = ½ × 9.8 × (3.0)² = ½ × 9.8 × 9.0 = 44.1 m"
     },
     {
+        "id": 3,
         "problem": "A delivery truck with mass 1500 kg needs to accelerate at 5.0 m/s² to merge safely into highway traffic. What net force must the engine provide to achieve this acceleration?",
         "answer": "7,500 N",
-        "solutionp: "Using Newton's second law: F = ma = 1500 kg × 5.0 m/s² = 7,500 N"
+        "solution": "Using Newton's second law: F = ma = 1500 kg × 5.0 m/s² = 7,500 N"
     },
     {
         "id": 4,
